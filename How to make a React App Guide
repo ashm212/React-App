@@ -1,0 +1,23 @@
+This file contains how to create a react app. 
+
+1) Install NodeJS and Npm
+
+2) If NPM folder is not in AppData, you have to manually make an NPM folder here: C:\Users\ashu0\AppData\Roaming\npm
+
+Remember that AppData is a hidden folder, so you will have to show hidden folders.  
+
+3) Go to powershell or command line (run as adminstrator): 
+
+On your desktop make a project called react app and then navigate to it using powershell.  Inside of this path
+
+PS C:\Users\ashu0\Onedrive\desktop\React Project> npx create-react-app my-blog
+
+That's it!
+
+Finally, navigate to my-blog folder and then in powershell: 
+
+PS C:\Users\ashu0\Onedrive\desktop\React Project\my-blog> npm start
+
+This will start the react app.
+
+
